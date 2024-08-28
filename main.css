@@ -1,0 +1,60 @@
+
+@import url('https://fonts.googleapis.com/css?family=Gochi+Hand');
+@import url('https://fonts.googleapis.com/css2?family=Martian+Mono&display=swap');
+
+
+
+
+*{
+    background-color: #f9fafa;
+}
+.Profile-Conts h1{
+    font-family: "Martian Moto", monospace;
+    color: #282828;
+}
+
+.Profile-Conts h3{
+    color: #282828;
+    font-family: "Martian Moto", monospace;
+}
+
+.aboutme h2{
+    color: #63a0bb;
+    font-family: "Martian Moto", monospace;
+    
+}
+
+.aboutme p{
+    font-family: "Gochi Hand";
+    color: #282828;
+}
+
+.dream h2{
+    color: #63a0bb;
+    font-family: "Martian Moto", monospace;
+    
+}
+
+.dream p{
+    color: #e29b73;
+    font-weight: bold;
+    font-family: "Gochi Hand";
+}
+
+.hobbies h2{
+    color: #63a0bb;
+    font-family: "Martian Moto", monospace;
+    
+}
+
+.hobbies p{
+    color: #e29b73;
+    font-weight: bold;
+    font-family: "Gochi Hand";
+}
+
+@media(max-width: 700px) {
+    
+}
+
+
